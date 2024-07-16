@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cgozu&label=Profile%20views&color=0e75b6&style=flat" alt="cgozu" /> </p>
 
-- 🔭 I’m currently working on [Velorium](Cooming Soon)
+- 🔭 I’m currently working on [Velorium] https://velorium.netlify.app/
 
 - 🌱 I’m currently learning **Java**
 
